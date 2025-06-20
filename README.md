@@ -5,7 +5,8 @@ Welcome aboard SpaceSky, a fun and interactive space-themed web project where te
 ## 🚀 Inspiration
 
 SpaceSky was born from a love of technology and the infinite wonders of space. Inspired by the thrill of exploring new frontiers and the power of modern web tech, this project combines cutting-edge tools to create an immersive experience that’s both educational and entertaining. It’s a playground for creativity, learning, and a little bit of cosmic magic!
-
+## LiveDemo 
+[http://www.spaceSky.com](https://v0-space-exploration-website-nlhbnskxr.vercel.app/)
 ## 🛠️ Technologies Used
 
 - **Next.js** - The React framework for blazing-fast web apps
